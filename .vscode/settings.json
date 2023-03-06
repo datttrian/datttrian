@@ -1,0 +1,36 @@
+{
+  // Exclude __pycache__ from explorer
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+
+  // Show vertical line after 79 to visualize end of line
+  "editor.rulers": [
+    79
+  ],
+
+  // Improve brackets displaying
+  "editor.bracketPairColorization.enabled": true,
+
+  // Disable pylance type checking because we want to use mypy for this
+  "python.analysis.typeCheckingMode": "off",
+
+  // Display inline hints for types of returned values
+  "python.analysis.inlayHints.functionReturnTypes": true,
+
+  // Enable linting by flake8 and mypy
+  "python.linting.flake8Enabled": true,
+  "python.linting.mypyEnabled": true,
+
+  // Enable using pytest for testing
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+
+  // Enable automatic imports formatting after saving
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true,
+    },
+  },
+}
