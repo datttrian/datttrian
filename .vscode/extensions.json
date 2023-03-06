@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    // Support Python in VS Code (including LSP server Pylance)
+    // https://marketplace.visualstudio.com/items?itemName=ms-python.python
+    "ms-python.python",
+
+    // AI assistant
+    // https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
+    "visualstudioexptteam.vscodeintellicode",
+
+    // Visualize code authorship
+    // https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+    "eamodio.gitlens",
+
+    // View git graph of repository
+    // https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+    "mhutchie.git-graph",
+
+    // Check code for spelling
+    // https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+    "streetsidesoftware.code-spell-checker",
+
+    // Add UI for tests
+    // https://marketplace.visualstudio.com/items?itemName=LittleFoxTeam.vscode-python-test-adapter
+    "LittleFoxTeam.vscode-python-test-adapter",
+
+    // To use the settings from .editorconfig file
+    // https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+    "EditorConfig.EditorConfig",
+  ]
+}
