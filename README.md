@@ -25,7 +25,7 @@ pytest
 Python solutions to the training exercises and tests at https://codility.com/programmers/lessons/
 
 1. Iterations
-    * BinaryGap
+    * [BinaryGap](binary_gap)
 1. Arrays
     * CyclicRotation
     * OddOccurrencesInArray
