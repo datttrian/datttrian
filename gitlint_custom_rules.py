@@ -6,7 +6,7 @@ from gitlint import git, rules
 class BranchName(rules.CommitRule):
     """Rule to validate branch name."""
     name = "branch-name"
-    id = ""
+    id = "UC"
 
     def validate(
         self,
