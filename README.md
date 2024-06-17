@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - [Centennial College](https://github.com/ttran375)
 - [International University](https://github.com/datttrian/iu-mafe)
-- [DataCamp](https://github.com/datttrian/datacamp)
 - [LeetCode](https://github.com/datttrian/leetcode)
+- [DataCamp](https://github.com/datttrian/datacamp)
 - [CS50X](https://github.com/datttrian/cs50x), [CS50P](https://github.com/datttrian/cs50p), [CS50AI](https://github.com/datttrian/cs50ai)
 - [LinkedIn Learning](https://github.com/datttrian/linkedin-learning)
 - [Codecademy](https://github.com/datttrian/codecademy)
