@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 ## Top Languages
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datttrian&&show_icons=true&locale=en&layout=compact&langs_count=12" alt="datttrian" /></p>
-
