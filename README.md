@@ -2,7 +2,7 @@
 
 [![Centennial
 College](https://img.shields.io/badge/-Centennial%20College-d4e039?style=flat&logo=Centennial-College&logoColor=white)](https://github.com/ttran375)
-[![VNU-HCM](https://img.shields.io/badge/-VNU--HCM-198fd9?style=flat&logo=International-University&logoColor=white)](https://github.com/datttrian/iu-mafe)
+[![IU-VNU](https://img.shields.io/badge/-IU--VNU-198fd9?style=flat&logo=International-University&logoColor=white)](https://github.com/datttrian/iu-mafe)
 [![LinkedIn
 Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0073B1?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/datttrian/linkedin-learning)
 [![DataCamp](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=DataCamp&logoColor=white)](https://github.com/datttrian/datacamp)
@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The beginning of knowledge is the discovery of something we do not understand. - Frank Herbert
+    ## Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad. - Brian O'Driscoll
 
 ![](assets/footer.svg)
