@@ -2,8 +2,7 @@
 
 [![Centennial
 College](https://img.shields.io/badge/-Centennial%20College-d4e039?style=flat&logo=Centennial-College&logoColor=white)](https://github.com/ttran375)
-[![Vietnam National
-University](https://img.shields.io/badge/-Vietnam%20National%20University-198fd9?style=flat&logo=Vietnam-Natonal-University&logoColor=white)](https://github.com/datttrian/iu-mafe)
+[![VNU-HCM](https://img.shields.io/badge/-VNU--HCM-198fd9?style=flat&logo=International-University&logoColor=white)](https://github.com/datttrian/iu-mafe)
 [![LinkedIn
 Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0073B1?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/datttrian/linkedin-learning)
 [![DataCamp](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=DataCamp&logoColor=white)](https://github.com/datttrian/datacamp)
@@ -52,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Discovery consists of seeing what everybody has seen and thinking what nobody else has thought. - Jonathan Swift
+    ## The beginning of knowledge is the discovery of something we do not understand. - Frank Herbert
 
 ![](assets/footer.svg)
