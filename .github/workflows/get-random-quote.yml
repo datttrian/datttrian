@@ -1,0 +1,40 @@
+name: Get Random Quote
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up R
+      uses: r-lib/actions/setup-r@v2
+
+    - name: Install R packages
+      run: |
+        Rscript -e 'install.packages(c("rmarkdown", "reticulate"))'
+
+    - name: Install Pandoc
+      run: |
+        sudo apt-get install -y pandoc
+
+    - name: Install Python packages
+      run: |
+        Rscript -e 'reticulate::py_install("requests")'
+
+    - name: Run RMarkdown
+      run: |
+        Rscript -e "rmarkdown::render('README.Rmd')"
+
+    - name: Push
+      run: bash ./src/push.sh
+      env:
+        USER_EMAIL: ${{ secrets.USER_EMAIL }}
+        USERNAME: ${{ secrets.USERNAME }}
+        COMMIT_MESSAGE: "Get Random Quote"
