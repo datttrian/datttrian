@@ -1,28 +1,57 @@
-# Hi there 👋
+![](assets/header.png)
 
-<!--
-**datttrian/datttrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Centennial
+College](https://img.shields.io/badge/-Centennial%20College-d4e039?style=flat&logo=Centennial-College&logoColor=white)](https://github.com/ttran375)
+[![International
+University](https://img.shields.io/badge/-International%20University-198fd9?style=flat&logo=International-University&logoColor=white)](https://github.com/datttrian/iu-mafe)
+[![LinkedIn
+Learning](https://img.shields.io/badge/-LinkedIn%20Learning-0073B1?style=flat&logo=LinkedIn&logoColor=white)](https://github.com/datttrian/linkedin-learning)
+[![DataCamp](https://img.shields.io/badge/-DataCamp-03EF62?style=flat&logo=DataCamp&logoColor=white)](https://github.com/datttrian/datacamp)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://github.com/datttrian/leetcode)
+[![CS50X](https://img.shields.io/badge/-CS50X-e00000?style=flat&logo=CS50&logoColor=white)](https://github.com/datttrian/cs50x)
+[![CS50P](https://img.shields.io/badge/-CS50P-e00000?style=flat&logo=CS50&logoColor=white)](https://github.com/datttrian/cs50p)
+[![CS50AI](https://img.shields.io/badge/-CS50AI-e00000?style=flat&logo=CS50&logoColor=white)](https://github.com/datttrian/cs50ai)
+[![Codecademy](https://img.shields.io/badge/-Codecademy-1F4056?style=flat&logo=Codecademy&logoColor=white)](https://github.com/datttrian/codecademy)
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/datttrian">
+<img src="https://github-stats-alpha.vercel.app/api?username=datttrian">
+</a>
 
-- [Centennial College](https://github.com/ttran375)
-- [International University](https://github.com/datttrian/iu-mafe)
-- [LeetCode](https://github.com/datttrian/leetcode)
-- [DataCamp](https://github.com/datttrian/datacamp)
-- [CS50X](https://github.com/datttrian/cs50x), [CS50P](https://github.com/datttrian/cs50p), [CS50AI](https://github.com/datttrian/cs50ai)
-- [LinkedIn Learning](https://github.com/datttrian/linkedin-learning)
-- [Codecademy](https://github.com/datttrian/codecademy)
+</p>
 
-## Top Languages
+<p align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datttrian&&show_icons=true&locale=en&layout=compact&langs_count=12" alt="datttrian" /></p>
+<a href="https://github.com/datttrian">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=datttrian&&show_icons=true&locale=en&layout=compact&langs_count=10">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datttrian">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/datttrian">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datttrian">
+</a>
+
+</p>
+
+``` python
+import requests
+
+def get_random_quote():
+    response = requests.get("https://api.quotable.io/random")
+    if response.status_code == 200:
+        data = response.json()
+        return f"{data['content']} - {data['author']}"
+    else:
+        return "Failed to fetch a quote."
+
+print(get_random_quote())
+```
+
+    ## Freedom is the right to live as we wish. - Epictetus
+
+![](assets/footer.svg)
