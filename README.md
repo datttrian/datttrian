@@ -52,6 +52,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Freedom is the right to live as we wish. - Epictetus
+    ## We are wiser than we know. - Ralph Waldo Emerson
 
 ![](assets/footer.svg)
