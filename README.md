@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life is really simple, but we insist on making it complicated. - Confucius
+    ## Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen. - Winston Churchill
 
 ![](assets/footer.svg)
