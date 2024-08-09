@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen. - Winston Churchill
+    ## Go to your bosom: Knock there and ask your heart what it doth know. - William Shakespeare
 
 ![](assets/footer.svg)
