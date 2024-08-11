@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom. - Rumi
+    ## If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow. - The Buddha
 
 ![](assets/footer.svg)
