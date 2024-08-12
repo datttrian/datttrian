@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow. - The Buddha
+    ## Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation. - Samuel Richardson
 
 ![](assets/footer.svg)
