@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation. - Samuel Richardson
+    ## There is nothing on this earth more to be prized than true friendship. - Thomas Aquinas
 
 ![](assets/footer.svg)
