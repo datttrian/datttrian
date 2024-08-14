@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There is nothing on this earth more to be prized than true friendship. - Thomas Aquinas
+    ## Quality means doing it right when no one is looking. - Henry Ford
 
 ![](assets/footer.svg)
