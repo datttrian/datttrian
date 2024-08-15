@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Quality means doing it right when no one is looking. - Henry Ford
+    ## Aim for the moon. If you miss, you may hit a star. - W. Clement Stone
 
 ![](assets/footer.svg)
