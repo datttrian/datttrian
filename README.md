@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Aim for the moon. If you miss, you may hit a star. - W. Clement Stone
+    ## Life is divided into the horrible and the miserable. - Woody Allen
 
 ![](assets/footer.svg)
