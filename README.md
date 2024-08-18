@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The biggest room in the world is room for improvement. - Helmut Schmidt
+    ## There are no limitations to the mind except those we acknowledge. - Napoleon Hill
 
 ![](assets/footer.svg)
