@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There are no limitations to the mind except those we acknowledge. - Napoleon Hill
+    ## Formula for success: under promise and over deliver. - Tom Peters
 
 ![](assets/footer.svg)
