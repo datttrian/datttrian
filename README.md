@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Formula for success: under promise and over deliver. - Tom Peters
+    ## So much technology, so little talent. - Vernor Vinge
 
 ![](assets/footer.svg)
