@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## So much technology, so little talent. - Vernor Vinge
+    ## Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith. - Gordon Hinckley
 
 ![](assets/footer.svg)
