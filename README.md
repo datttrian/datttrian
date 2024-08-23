@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours. - Henry David Thoreau
+    ## Attitude is a little thing that makes a big difference. - Winston Churchill
 
 ![](assets/footer.svg)
