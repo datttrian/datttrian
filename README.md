@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Attitude is a little thing that makes a big difference. - Winston Churchill
+    ## Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley
 
 ![](assets/footer.svg)
