@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley
+    ## A man sees in the world what he carries in his heart. - Johann Wolfgang von Goethe
 
 ![](assets/footer.svg)
