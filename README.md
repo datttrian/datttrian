@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A man sees in the world what he carries in his heart. - Johann Wolfgang von Goethe
+    ## Don't settle for a relationship that won't let you be yourself. - Oprah Winfrey
 
 ![](assets/footer.svg)
