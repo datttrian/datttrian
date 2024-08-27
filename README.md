@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Don't settle for a relationship that won't let you be yourself. - Oprah Winfrey
+    ## People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not. - Johann Wolfgang von Goethe
 
 ![](assets/footer.svg)
