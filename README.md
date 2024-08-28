@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not. - Johann Wolfgang von Goethe
+    ## Cleverness is not wisdom. - Euripides
 
 ![](assets/footer.svg)
