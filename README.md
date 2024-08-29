@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Cleverness is not wisdom. - Euripides
+    ## I never think of the future. It comes soon enough. - Albert Einstein
 
 ![](assets/footer.svg)
