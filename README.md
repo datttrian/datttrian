@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I never think of the future. It comes soon enough. - Albert Einstein
+    ## I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones. - Albert Einstein
 
 ![](assets/footer.svg)
