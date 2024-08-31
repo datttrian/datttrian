@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones. - Albert Einstein
+    ## The pain passes, but the beauty remains. - Pierre-Auguste Renoir
 
 ![](assets/footer.svg)
