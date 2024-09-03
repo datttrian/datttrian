@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There are people who have money and people who are rich. - Coco Chanel
+    ## Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living. - Anaïs Nin
 
 ![](assets/footer.svg)
