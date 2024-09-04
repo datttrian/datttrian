@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living. - Anaïs Nin
+    ## Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration. - Niccolò Machiavelli
 
 ![](assets/footer.svg)
