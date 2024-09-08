@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Work while you have the light. You are responsible for the talent that has been entrusted to you. - Henri-Frédéric Amiel
+    ## Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation. - Paul Theroux
 
 ![](assets/footer.svg)
