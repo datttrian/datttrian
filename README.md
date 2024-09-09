@@ -51,6 +51,6 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation. - Paul Theroux
+    ## We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far. - Swami Vivekananda
 
 ![](assets/footer.svg)
